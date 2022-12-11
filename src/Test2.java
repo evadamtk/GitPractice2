@@ -5,8 +5,8 @@ public static Test2{
 // wooden spoon
 
 System.out.println("James Bond is overrated!")
-// Where is Matt?
-// Where is Bruce Lee?
+System.out.println("Where is Matt?")
+System.out.println("Where is Bruce Lee?")
 // more testing!
 }
 }
