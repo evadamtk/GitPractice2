@@ -3,6 +3,9 @@ public class Test1 {
         System.out.println("I suppose that I love Java");
         //gdkdnlskdmvc
         //jvkjdnvkjnzxkv2
-        System.out.println("why it is red?");
+        System.out.println("why it is red?");// Idk! 
+        // added more for testing
+        // and more 
+        // a little more
     }
 }
