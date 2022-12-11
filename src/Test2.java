@@ -1,8 +1,12 @@
-// some code
+public static Test2{
+    public static void main(String[] args){
+    // some code
 // more code
 // wooden spoon
 
-// James Bond is overrated!
+System.out.println("James Bond is overrated!")
 // Where is Matt?
 // Where is Bruce Lee?
 // more testing!
+}
+}
